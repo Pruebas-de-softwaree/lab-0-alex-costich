@@ -27,7 +27,7 @@ def maximum(list):
 if __name__ == "__main__":
     print("start test")
 
-    print(power(25, 0.5)) # power no funciona para floats
+    print(power(2, 2)) # power no funciona correctamente en ints
 
     print("end test")
 
