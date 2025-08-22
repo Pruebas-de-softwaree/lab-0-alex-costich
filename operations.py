@@ -27,7 +27,7 @@ def maximum(list):
 if __name__ == "__main__":
     print("start test")
 
-    print(maximum([0, -100, 100]))
+    print(maximum([0, -100, 100])) # maximum error
 
     print("end test")
 
