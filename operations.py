@@ -27,7 +27,7 @@ def maximum(list):
 if __name__ == "__main__":
     print("start test")
 
-    print(square_root(-1)) # doesn't work for negatives
+    print(power(25, 0.5)) # power no funciona para floats
 
     print("end test")
 
